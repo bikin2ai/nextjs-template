@@ -9,13 +9,14 @@ Template for Next JS Project
 - [x] Tailwind CSS
 - [x] Sass & Scss Support
 - [ ] Husky
-- [ ] Prettier
-- [ ] ESLint
+- [x] Prettier
+- [x] ESLint
 - [ ] Github Actions
 - [ ] Conventional Commit Lint
 - [ ] Zustand & React Query
 - [ ] Storybook
 - [ ] Chakra UI
+- [x] NextJS Sitemap
 
 ## Getting Started
 
